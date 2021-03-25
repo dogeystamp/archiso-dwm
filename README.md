@@ -2,7 +2,7 @@
 
 This is the Arch Linux installer ISO, but with a graphical interface (dwm).
 
-My builds of dwm, dmenu, and st are available, and the binds are mostly the same as default settings.
+My builds of [dwm](https://github.com/dogeystamp/dwm), [dmenu](https://github.com/dogeystamp/dmenu), and [st](https://github.com/dogeystamp/st) are available, and the binds are mostly the same as default settings.
 Also, firefox is installed.
 
 ## Installing
