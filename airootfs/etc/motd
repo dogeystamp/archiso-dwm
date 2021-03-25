@@ -1,0 +1,6 @@
+Arch Linux live environment
+
+A graphical interface (dwm) can be accessed via startx.
+Tutorials for it can be accessed at https://dwm.suckless.org/tutorial/
+You can enter a web browser by pressing Alt-P in dwm and typing "firefox".
+

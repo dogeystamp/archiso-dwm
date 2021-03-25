@@ -1,0 +1,6 @@
+PRESETS=('aidwm')
+
+ALL_kver='/boot/vmlinuz-linux-lts'
+ALL_config='/etc/mkinitcpio.conf'
+
+aidwm_image="/boot/initramfs-linux-lts.img"
