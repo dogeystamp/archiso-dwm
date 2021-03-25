@@ -7,6 +7,10 @@ Also, firefox is installed.
 
 ## Installing
 You need to be running an existing Arch-based distro, and install the `archiso` package.
+
 Then, in the directory, run `./build.sh` as root.
+
 The ISO will be in `out/`, and you can install it on an USB pendrive.
+
+
 If you want to rebuild the ISO (after modifying the profile, for example) remove `work/` and `out/`.
