@@ -1,6 +1,12 @@
-Arch Linux live environment
+Arch ISO dwm
 
-A graphical interface (dwm) can be accessed via startx.
-Tutorials for it can be accessed at https://dwm.suckless.org/tutorial/
-You can enter a web browser by pressing Alt-P in dwm and typing "firefox".
+Start dwm via startx. If your device has poor performance, you can use
 
+	startx ~/minxinitrc
+
+instead.
+
+The escape key and the caps lock key are swapped in the GUI. This can be disabled
+by removing the setxkbmap line in .xinitrc or minxinitrc.
+
+Qutebrowser and Firefox are available.

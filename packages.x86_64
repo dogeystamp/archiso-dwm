@@ -89,7 +89,6 @@ syslinux
 systemd-resolvconf
 tcpdump
 terminus-font
-termite-terminfo
 testdisk
 tmux
 udftools
@@ -107,6 +106,7 @@ zsh
 
 xorg-server
 xorg-xinit
+qutebrowser
 firefox
 nvidia-dkms
 mesa
@@ -122,3 +122,6 @@ freetype2
 ttf-jetbrains-mono
 acpi
 neovim
+
+rkhunter
+foremost
