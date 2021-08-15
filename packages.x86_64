@@ -122,6 +122,9 @@ freetype2
 ttf-jetbrains-mono
 acpi
 neovim
+picom
+zsh-autosuggestions
+zsh-syntax-highlighting
 
 rkhunter
 foremost
